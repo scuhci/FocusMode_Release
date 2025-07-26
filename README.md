@@ -3,7 +3,10 @@
 Thank you for taking the time to install **FocusMode**!  
 Please follow these instructions carefully to get started.
 
-📺 **Video Reference:** [Update Later]
+📺 **Video Reference:**
+
+[FocusMode Installation Guide Video](https://youtu.be/C3xh4nLin_Q)
+
 ---
 
 ## Table of Contents

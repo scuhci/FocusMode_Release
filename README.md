@@ -69,11 +69,15 @@ Make sure you're using **Google Chrome** throughout the entire study.
     <img src="https://github.com/scuhci/FocusFinder_Release/blob/main/images/unpackimage.png" alt="Alt Text" width="500"/>
   - Select the folder you just unzipped named `focusmode-release`
 
-    <img src="https://github.com/scuhci/FocusFinder_Release/blob/main/images/unpack.png" alt="Alt Text" width="500"/>
+    <img src="https://github.com/scuhci/FocusMode_Release/blob/main/assets/Downloads.png?raw=true" alt="Alt Text" width="500"/>
 
   - 🎉 The extension should now be visible in your Chrome toolbar!
 
-    <img src="https://github.com/scuhci/FocusFinder_Release/blob/main/images/successinstall.png" alt="Alt Text" width="500"/>
+    <img src="https://github.com/scuhci/FocusMode_Release/blob/main/assets/Uppacked.png?raw=true" alt="Alt Text" width="500"/>
+
+  - Optional: Pin FocusMode Extension to toolbar  
+
+   <img src="https://github.com/scuhci/FocusMode_Release/blob/main/assets/Pin.png?raw=true" alt="Alt Text" style="border: 2px solid #ccc; border-radius: 8px;" width="500"/>
 
 **Note:** _Please do not delete the `focusmode-release` folder during the study._
 
@@ -97,6 +101,7 @@ Make sure you're using **Google Chrome** throughout the entire study.
    - Paste your Verification Code to confirm your registration
 
    <img src="https://github.com/scuhci/FocusFinder_Release/blob/main/images/survey.png" alt="Alt Text" style="border: 2px solid #ccc; border-radius: 8px;" width="900"/>
+
 
 ---
 

@@ -42,7 +42,7 @@ Make sure you're using **Google Chrome** throughout the entire study.
 
 ### 2. Download FocusMode
 
-- Download Link: [FocusMode Release](https://github.com/scuhci/FocusMode_Release/releases/download/v4/focusmode-release.zip)
+- Download Link: [FocusMode Release](https://github.com/scuhci/FocusMode_Release/releases/download/v5/focusmode-release.zip)
 - The file will download automatically as `focusmode-release.zip`
 
 ### 3. Unzip the File
